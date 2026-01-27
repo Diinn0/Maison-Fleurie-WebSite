@@ -22,7 +22,7 @@
     "@prisma/client": "^4.12.0",
     "@tinymce/tinymce-vue": "^5.1.0",
     "aws-sdk": "^2.1359.0",
-    "bcrypt": "^5.1.0",
+    "bcrypt": "^6.0.0",
     "dotenv": "^16.0.3",
     "flowbite": "^1.6.5",
     "mock-aws-s3": "^4.0.2",
